@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dsads and some tryes to study
 conflict!!
+=======
+dsads and some tryes to study 
+Trying some more stuffs!!
+>>>>>>> 38d1e0cca499cb36996cff2dc742af6b3efe7393
